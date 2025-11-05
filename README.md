@@ -1,4 +1,4 @@
-# 🎯 Sentiment-Based Product Recommendation System (Revised)
+# 🎯 Sentiment-Based Product Recommendation System
 
 Combining **NLP + Collaborative Filtering** to generate smarter, sentiment-driven product recommendations based on real user reviews.
 
