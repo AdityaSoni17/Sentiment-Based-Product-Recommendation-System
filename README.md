@@ -40,8 +40,8 @@ This project enhances traditional recommender systems by integrating **sentiment
 ## 🧪 How to Use
 
 ```bash
-# Step 1: Clone repo
-git clone https://github.com/HelloShibani/Sentiment-Based-Product-Recommendation-Analysis-Revision.git
+# Step 1: clone the repository
+git clone https://github.com/AdityaSoni17/Sentiment-Based-Product-Recommendation-System
 cd Sentiment-Based-Product-Recommendation-Analysis-Revision
 
 # Step 2: Install dependencies
@@ -59,7 +59,7 @@ jupyter notebook Sentiment+Enhanced+Product+Recommendation+System+for+Ebuss.ipyn
 .
 ├── data/                  # Input datasets
 ├── model/                 # Trained model artifacts
-├── app/                   # Deployment logic (WIP)
+├── app/                   # Deployment logic
 ├── templates/             # Flask templates
 ├── model.py               # Sentiment + Recommendation predictor
 ├── requirements.txt       # Environment dependencies
